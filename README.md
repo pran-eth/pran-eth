@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Praneeth Tiruvayipati</h1>
-<h3 align="center">aka <strong>CodeCrafter</strong> • Backend Engineer • Golang Fanboy • Python Explorer 🐍</h3>
+<h3 align="center"> <strong>CodeCrafter</strong> • Backend Engineer • Golang Fanboy • Python Explorer 🐍</h3>
 
 <p align="center">"The best way to predict the future is to invent it." — Alan Kay</p>
 
@@ -66,4 +66,4 @@
 
 ---
 
-<!-- Made with ❤️ by Praneeth Tiruvayipati -->
+<! Made with ❤️ by Praneeth Tiruvayipati >
