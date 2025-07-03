@@ -58,11 +58,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pran-eth&theme=onedark&no-frame=false&no-bg=true&margin-w=6)
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pran-eth&label=Profile%20Views&icon=5&pretty=true" alt="visitors"/>
-</p>
+
+
 
 ---
 <h1 align="center">Made with ❤️ by Praneeth Tiruvayipati </h1>
