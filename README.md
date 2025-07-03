@@ -65,5 +65,5 @@
 </p>
 
 ---
+<h1 align="center">Made with ❤️ by Praneeth Tiruvayipati </h1>
 
-Made with ❤️ by Praneeth Tiruvayipati 
