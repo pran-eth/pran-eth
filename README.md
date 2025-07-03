@@ -66,4 +66,4 @@
 
 ---
 
-<! Made with ❤️ by Praneeth Tiruvayipati >
+Made with ❤️ by Praneeth Tiruvayipati 
